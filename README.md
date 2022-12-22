@@ -1,12 +1,14 @@
 # Version_Control_System
 
+Implemented a "git" like version control system with limited functionalities. The functionalities include initializing a ".git" directory with necessary files and details, add files to staging area, commit changes, view status and logs, rollback to previous commits.
+
 ## Link
 https://github.com/kbbhatt04/Version_Control_System
 
 ## Requirements
 1. g++ compiler (to compile the code)
 2. SHA1.hpp (Imported SHA1 library. File included in the folder)
-3. Made for Linux
+3. Linux
 
 
 ## How to run : 
